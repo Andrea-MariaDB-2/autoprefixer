@@ -1,6 +1,40 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 10.4.4
+* Fixed `package.funding` to have same value between all PostCSS packages.
+
+## 10.4.3
+* Fixed `package.funding` (by Álvaro Mondéjar).
+
+## 10.4.2
+* Fixed missed `-webkit-` prefix for `width: stretch`.
+
+## 10.4.1
+* Fixed `::file-selector-button` data (by Luke Warlow).
+
+## 10.4 “ǃke e꞉ ǀxarra ǁke”
+* Added `:autofill` support (by Luke Warlow).
+
+## 10.3.7
+* Replaced `nanocolors` to `picocolors`.
+
+## 10.3.6
+* Updated `nanocolors`.
+* Reduced package size.
+
+## 10.3.5
+* Replaced `colorette` to `nanocolors`.
+
+## 10.3.4
+* Fixed `stretch` value in latest Firefox.
+
+## 10.3.3
+* Fixed wrong `-moz-` prefix from  `::file-selector-button` (by Usman Yunusov).
+
+## 10.3.2
+* Fixed `::file-selector-button` support (by Usman Yunusov).
+
 ## 10.3.1
 * Fixed adding wrong prefixes to `content` (by Luke Warlow).
 
